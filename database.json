@@ -1,0 +1,10 @@
+{
+    "user1": {
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "access": true
+    },
+    "user2": {
+        "password": "e80b5017098950fc58aad83c8c14978e66a7a2cc9a2c2a5f7e3a5a4d7f5f2e0d",
+        "access": false
+    }
+}
